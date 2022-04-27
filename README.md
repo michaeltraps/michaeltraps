@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltraps)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltraps?hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **michaeltraps/michaeltraps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
