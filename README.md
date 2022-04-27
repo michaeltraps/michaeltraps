@@ -1,4 +1,4 @@
-<h1>Hey, good to see you!<img src="https://www.pngfind.com/pngs/m/227-2271928_hello-speech-bubble-hd-png-download.png" width="50px"></h1>
+<h1>Hey, good to see you!<img src=""></h1>
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltraps&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
