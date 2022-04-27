@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1><img src="https://giphy.com/embed/LOnt6uqjD9OexmQJRB" width="25"></p>Hey, good to see you!</h1>
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltraps&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
