@@ -6,10 +6,11 @@ I'm Michael, a frontend software engineer 👨‍💻 based out of New York City
 
 - 💻 I'm currently working for 🐿️ [SQuriL](http://www.squril.io/), an open source GraphQL schema generator and storage tool
 - 🌱 I'm currently teaching myself: Svelte, Next.js
-- ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently discovered customizable mechanical keyboards ⌨️
+- ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently stumbled upon the world of customizable mechanical keyboards ⌨️
 - 😄 Pronouns: he/him
+- 🗨️ Ask me about: anything!
 
-## Where to find me
+## Where to find me 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/michaeltraps)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michael-a-trapani/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaeltrapani.mail@gmail.com)
@@ -42,6 +43,5 @@ I'm Michael, a frontend software engineer 👨‍💻 based out of New York City
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<hr>
-
+## Github Stats
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltraps&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
