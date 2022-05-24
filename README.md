@@ -1,7 +1,7 @@
 ## Hey, good to see you!
 
 <img align="right" alt="CODER-GIF" src="https://github.com/michaeltraps/michaeltraps/blob/main/assets/coding-night.gif" width="300"/>
- 
+
 I'm Michael, a frontend software engineer 👨‍💻 based in New York City 🏙️
 
 - 💻 I'm currently working on 🐿️ [SQuriL](http://www.squril.io/), an open source GraphQL schema generator and storage tool
