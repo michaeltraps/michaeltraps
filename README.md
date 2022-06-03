@@ -18,6 +18,7 @@ I'm Michael, a frontend software engineer 👨‍💻 based in New York City �
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaeltrapani.mail@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@michael-a-trapani/squril-generate-and-store-your-graphql-schemas-ae38af229701)
 [![Resume](https://img.shields.io/badge/Resume-E10098?style=for-the-badge&logoColor=black)](https://github.com/michaeltraps/michaeltraps/raw/main/assets/Michael_Trapani_Resume.pdf)
+[![Website](https://img.shields.io/badge/Website-1f253d?style=for-the-badge&logoColor=white)](https://michaeltrapani.io)
 
 ## OS and Tools
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
