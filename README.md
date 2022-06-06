@@ -8,7 +8,7 @@ I'm Michael, a frontend software engineer 👨‍💻 based in New York City �
 - 🌱 I'm currently teaching myself: Svelte, Next.js
 - ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently stumbled upon the world of customizable mechanical keyboards ⌨️
 - 📖 I'm currently reading: Neuromancer, by William Gibson
-- 🎮 I'm currently playing: Elden Ring, by FromSoftware
+- 🎮 I'm currently playing: Cyberpunk 2077, by CD Projekt
 - 😄 Pronouns: he/him
 - 🗨️ Ask me about: anything!
 
