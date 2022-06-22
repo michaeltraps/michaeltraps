@@ -7,8 +7,8 @@ I'm Michael, a frontend software engineer 👨‍💻 based in New York City �
 - 💻 I'm currently working on 🐿️ [SQuriL](http://www.squril.io/), an open source GraphQL schema generator and storage tool
 - 🌱 I'm currently teaching myself: Svelte, Next.js
 - ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently stumbled upon the world of customizable mechanical keyboards ⌨️
-- 📖 I'm currently reading: Neuromancer, by William Gibson
-- 🎮 I'm currently playing: Halo Infinite by 343 Industries and The Great Ace Attorney Chronicles by Capcom
+- 📖 I'm currently reading: Saga, by Brian K. Vaughan && Fiona Staples
+- 🎮 I'm currently playing: Halo Infinite, by 343 Industries && The Great Ace Attorney Chronicles, by Capcom
 - 😄 Pronouns: he/him
 - 🗨️ Ask me about: anything!
 
