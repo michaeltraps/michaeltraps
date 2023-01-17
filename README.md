@@ -47,5 +47,5 @@ I'm Michael, a frontend software engineer 👨‍💻 based in New York City �
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Github Stats
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltraps&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## Github Stats
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaeltraps&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
