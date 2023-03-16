@@ -7,7 +7,7 @@ I'm Michael, a frontend software engineer 👨‍💻 based in New York City �
 - 💻 I'm currently working at 🍀 [Clover](https://www.clover.com/)
 - 🌱 I'm currently teaching myself: NextJs
 - ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently stumbled upon the world of customizable mechanical keyboards ⌨️
-- 📖 I'm currently reading: nothing at the moment
+- 📖 I'm currently reading: Children of Time, The Good Ancestor
 - 🎮 I'm currently playing: Tactics Ogre: Reborn (Square Enix), Final Fantasy XIV (Square Enix), Tales of Arise (Bandai Namco)
 - 😄 Pronouns: he/him
 - 🗨️ Ask me about: anything!
