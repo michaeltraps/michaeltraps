@@ -8,7 +8,7 @@ I'm Michael, a frontend software engineer 👨‍💻 based in New York City �
 - 🌱 I'm currently teaching myself: NextJs
 - ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently stumbled upon the world of customizable mechanical keyboards ⌨️
 - 📖 I'm currently reading: Children of Time, The Good Ancestor
-- 🎮 I'm currently playing: Tactics Ogre: Reborn (Square Enix), Final Fantasy XIV (Square Enix), Tales of Arise (Bandai Namco)
+- 🎮 I'm currently playing: Fallout 4, Pokemon Blue
 - 😄 Pronouns: he/him
 - 🗨️ Ask me about: anything!
 
