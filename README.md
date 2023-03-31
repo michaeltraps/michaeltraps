@@ -5,10 +5,10 @@
 I'm Michael, a frontend software engineer 👨‍💻 based in New York City 🏙️
 
 - 💻 I'm currently working at 🍀 [Clover](https://www.clover.com/)
-- 🌱 I'm currently teaching myself: NextJs
+- 🌱 I'm currently teaching myself: NextJs, Jenkins, Datadog
 - ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently stumbled upon the world of customizable mechanical keyboards ⌨️
-- 📖 I'm currently reading: Children of Time, The Good Ancestor
-- 🎮 I'm currently playing: Fallout 4, Pokemon Blue
+- 📖 I'm currently reading: Children of Time, The Good Ancestor, What We Owe the Future
+- 🎮 I'm currently playing: Diablo III 😈
 - 😄 Pronouns: he/him
 - 🗨️ Ask me about: anything!
 
