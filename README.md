@@ -8,7 +8,7 @@ I'm Michael, a frontend software engineer 👨‍💻 based in New York City �
 - 🌱 I'm currently teaching myself: NextJs, Jenkins, Datadog
 - ⚡ Fun fact: I love building gaming PCs 🖥️, and have recently stumbled upon the world of customizable mechanical keyboards ⌨️
 - 📖 I'm currently reading: Children of Time, The Good Ancestor, What We Owe the Future
-- 🎮 I'm currently playing: Diablo III 😈
+- 🎮 I'm currently playing: Baldur's Gate 3, Starfield
 - 😄 Pronouns: he/him
 - 🗨️ Ask me about: anything!
 
